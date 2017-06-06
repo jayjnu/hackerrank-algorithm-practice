@@ -1,0 +1,1 @@
+module.exports ='2 5\n1 0 5\n1 1 7\n1 0 3\n2 1 0\n2 1 1';
