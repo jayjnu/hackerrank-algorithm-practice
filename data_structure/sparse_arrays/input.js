@@ -1,0 +1,1 @@
+module.exports = '4\naba\nbaba\naba\nxzxb\n3\naba\nxzxb\nab';
